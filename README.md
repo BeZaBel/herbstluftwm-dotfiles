@@ -1,15 +1,17 @@
 ## Dotfiles
 
 A simple Herbstluftwm rice.
-Config for herbstluft is the default with some custom keybinds. Polybar is basically just [this](link de github) but with some custom modifications.
+Config for herbstluft is the default with some custom keybinds. The polybar config is basically just [this](https://github.com/adi1090x/polybar-themes/tree/master/polybar-6) but with some custom modifications (config-t7.ini).
 
-#### Applications
+#### Stuff
 
-- Firefox for browser
+- Firefox with HNTP for the newtab.
 - Alacritty for terminal (gotta go fast)
 - Nemo because I like panes in a GTK3 file browser
 - feh for simplicity
 - Polybar because ease of use
+- Cantata
+- Cava
 
 #### Screenshots
 
