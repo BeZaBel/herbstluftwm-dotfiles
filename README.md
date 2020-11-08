@@ -12,8 +12,7 @@ Config for herbstluft is the default with some custom keybinds. The polybar conf
 - Polybar because ease of use
 - Cantata for music
 - Cava for flexing
-- Rofi as menu (also, the polybar [config](https://github.co
-    m/adi1090x/polybar-themes/tree/master/polybar-6) is built around Rofi)
+- Rofi as menu (also, the polybar [config](https://github.com/adi1090x/polybar-themes/tree/master/polybar-6) is built around Rofi)
 
 #### Screenshots
 
