@@ -209,12 +209,13 @@ panel=~/.config/herbstluftwm/panel.sh
 #    kill ${pids[@]}
 #}
 
-#find the wallpaper
+# find the wallpaper
+# Use the same wallpaper as the awesome config
 wallpaper=~/.config/awesome/wallpaper/wallpaper.png
 {    picom &
     feh --bg-fill $wallpaper &
     xfce4-power-manager --restart &
     nm-applet &
     blueman-applet &
-    /home/azamora/.config/polybar/launch.sh &
+    ~/.config/polybar/launch.sh &
 }
