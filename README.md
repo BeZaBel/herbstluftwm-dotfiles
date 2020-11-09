@@ -16,8 +16,8 @@ Config for herbstluft is the default with some custom keybinds. The polybar conf
 
 #### Screenshots
 
+![](/screen4.png)
 ![](/screen1.png)
 ![](/screen2.png)
 ![](/screen3.png)
-![](/screen4.png)
 
